@@ -1,10 +1,8 @@
 # Matt Helmer
 
-Building products and data infrastructure for Japanese financial markets. I lead cross-functional teams and ship software. Background in product management and development.
+Product Manager and Developer building products and data infrastructure for Japanese financial markets. I lead cross-functional teams and ship software.
 
-## Background
-
-Product manager and developer. Led products from 0-to-1 and scaled existing platforms: crypto investing app (10,000x transaction growth), international e-commerce features, risk systems for trading desks, generative AI applications for banks.
+Led products from 0-to-1 and scaled existing platforms: crypto investing app (10,000x transaction growth), international e-commerce features, risk systems for trading desks, generative AI applications for banks.
 
 ## Current Projects
 
