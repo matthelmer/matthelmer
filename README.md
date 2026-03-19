@@ -4,7 +4,7 @@ Product development.  Japanese equity research.  Governance, activism, overlooke
 
 ## Projects
 
-**[edinet-tools](https://github.com/matthelmer/edinet-tools)** ![GitHub stars](https://img.shields.io/github/stars/matthelmer/edinet-tools) — Python toolkit for Japan's EDINET filing system
+**[edinet-tools](https://github.com/matthelmer/edinet-tools)** — Python toolkit for Japan's EDINET filing system
 
 **[kabu-agent](https://github.com/matthelmer/kabu-agent)** — Agentic research app for Japanese equities.  Competing agents produce investment theses from opposing perspectives.
 
