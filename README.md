@@ -1,15 +1,15 @@
 # Matt Helmer
 
-Product Manager and Developer building products and data infrastructure for Japanese financial markets. Led products from 0-to-1 and scaled existing platforms: crypto investing app (10,000x transaction growth), international e-commerce features, risk systems for trading desks, generative AI applications for banks.
+Product development.  Japanese equity research.  Governance, activism, overlooked value.
 
-## Current Projects
+## Projects
 
-**[japanfinsight.com](https://japanfinsight.com)** – Tools and data for analyzing Japanese financial markets
+**[edinet-tools](https://github.com/matthelmer/edinet-tools)** ![GitHub stars](https://img.shields.io/github/stars/matthelmer/edinet-tools) — Python toolkit for Japan's EDINET filing system
 
-**[edinet-tools](https://github.com/matthelmer/edinet-tools)** – Python tools for Japan's EDINET corporate disclosure API
+**[kabu-agent](https://github.com/matthelmer/kabu-agent)** — Agentic research app for Japanese equities.  Competing agents produce investment theses from opposing perspectives.
 
-**[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@matt-helmer)** – Videos on LLMs and programming
+**[japanfinsight.com](https://japanfinsight.com)** — Production research platform
 
 ## Contact
 
-**[data@japanfinsight.com](mailto:data@japanfinsight.com)** for consulting or partnerships
+[data@japanfinsight.com](mailto:data@japanfinsight.com)
